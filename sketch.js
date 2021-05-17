@@ -77,7 +77,7 @@ function draw() {
   
 
  
-packageBody.position.x=helicopterSprite.x;
+
 
   drawSprites();
   
